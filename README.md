@@ -1,5 +1,5 @@
 # Tosser
-Tosser is a simple Flutter application,user selects from dropdown option that either heads or tails and when onClicked button Toss,random function automatically generates number based on the computation of the number it selects either of heads or tails and displays the image of it and says whether user have correct guess or not.
+Tosser is a simple Flutter application,when user selects from dropdown option that either heads or tails and onClicked button Toss,random function automatically generates number fromm 1-100 based on the computation of the number it selects either of heads or tails and displays the image of it and says whether user have correct guess or not.
 
 Flutter packages used in this project are material , audioplayers(https://pub.dev/packages/audioplayers) and math
 
